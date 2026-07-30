@@ -2,6 +2,9 @@
 
 This repository contains a research project for the Fundamental Engineering Design course at Telkom University.
 
+**Project Period:** April-May 2026  
+**Repository Created:** July 2026
+
 The project analyzes outdoor thermal comfort at several locations around the campus using the Temperature Humidity Index (THI) and Physiological Equivalent Temperature (PET). Environmental data were collected through field measurements, while Python was used to calculate the PET values.
 
 ## Project Workflow
